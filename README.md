@@ -7,4 +7,4 @@ https://github.com/usmanabdulmajid/print-hng/blob/main/name.dart
 
 # UserInput App
 
-[![IMAGE ALT TEXT HERE](https://j.gifs.com/r22Jok.gif)]
+[![IMAGE ALT TEXT HERE](https://j.gifs.com/r2mmXW.gif)]
