@@ -28,7 +28,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  simple_gradient_text: ^1.2.2
+  
   
 
 dev_dependencies:
@@ -46,9 +46,9 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   fonts:
-    - family: Anton
+    - family: Allison
       fonts:
-        - asset: fonts/Anton-Regular.ttf
+        - asset: fonts/Allison-Regular.ttf
     - family: RobotoMono
       fonts:
         - asset: fonts/RobotoMono-VariableFont_wght.ttf
